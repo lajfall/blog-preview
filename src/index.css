@@ -37,6 +37,10 @@ body {
   row-gap: 24px;
 }
 
+.cover {
+  border-radius: 10px;
+}
+
 .info {
   display: flex;
   flex-direction: column;
