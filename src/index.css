@@ -37,6 +37,10 @@ body {
   row-gap: 24px;
 }
 
+.card:hover {
+  box-shadow: 16px 16px;
+}
+
 .cover {
   border-radius: 10px;
 }
@@ -64,6 +68,11 @@ body {
 
 .title {
   font-size: 24px;
+}
+
+.title:hover {
+  color: var(--yellow);
+  cursor: pointer;
 }
 
 .intro {
